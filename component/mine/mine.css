@@ -1,0 +1,43 @@
+html,body{
+    background: #eee;
+}
+#head {
+    width: 16rem;
+    height: 8rem;
+    background: #fff;
+}
+#head #p1{
+    font-size: 4rem;
+    color: #999999;
+    margin: 0 0 0 1.5rem;
+}
+#head #log{
+    text-align: center;
+    font-size: 0.8rem;
+}
+#ulList{
+    width:16rem;
+    margin: 0.3rem 0 0 0;
+    background: #fff;
+}
+#ulList li{
+    width:16rem;
+    height:2rem;
+    line-height: 2rem;
+    border-bottom: 1px solid #c0c0c0;
+    color: #333;
+}
+#ulList .lp{
+    width:10rem;
+    height:2rem;
+    font-size: 0.8rem;
+    float: left;
+    margin: 0 0 0 0.3rem;
+}
+#ulList .rp{
+    /*width:rem;*/
+    /*height:1rem;*/
+    float: right;
+    font-size: 1rem;
+    margin: 0 0.3rem 0 0;
+}
